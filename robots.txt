@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://skarlethtropan8-svg.github.io/lifpool-web/sitemap.xml
+Sitemap: https://lifpool.skarlethtropan8.workers.dev/sitemap.xml
